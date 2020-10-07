@@ -22,7 +22,7 @@
         "redq-omnipay/common": {
             "type": "vcs",
             "url": "https://github.com/Nozibulla/omnipay-common"
-        },
+        }
     },
     "extra": {
         "branch-alias": {
