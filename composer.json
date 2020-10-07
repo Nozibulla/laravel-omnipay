@@ -11,12 +11,18 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5|~6|~7|~8",
-        "omnipay/common": "~3.0"
+        "omnipay/common": "dev-master"
     },
     "autoload": {
         "psr-0": {
             "Ignited\\LaravelOmnipay": "src/"
         }
+    },
+     "repositories": {
+        "redq-omnipay/common": {
+            "type": "path",
+            "url": "/Users/bashar/Codes/pickbazar-reloaded/PickBazar/Core"
+        },
     },
     "extra": {
         "branch-alias": {
