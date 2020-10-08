@@ -1,5 +1,5 @@
 {
-    "name": "redq-ignited/laravel-omnipay",
+    "name": "ignited/laravel-omnipay",
     "description": "Integrates Omnipay with Laravel and provides an easy configuration.",
     "keywords": ["omnipay", "payments", "laravel", "laravel5"],
     "authors": [
@@ -19,7 +19,7 @@
         }
     },
      "repositories": {
-        "redq-omnipay/common": {
+        "omnipay/common": {
             "type": "vcs",
             "url": "https://github.com/Nozibulla/omnipay-common"
         }
