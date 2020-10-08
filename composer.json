@@ -25,6 +25,9 @@
         }
     },
     "extra": {
+        "branch-alias": {
+            "dev-Nozibulla-patch-1": "4.0.x-dev"
+        },
         "laravel": {
             "providers": [
                 "Ignited\\LaravelOmnipay\\LaravelOmnipayServiceProvider"
