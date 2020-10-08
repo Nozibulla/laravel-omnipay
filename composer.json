@@ -19,7 +19,7 @@
         }
     },
      "repositories": {
-        "redq-omnipay/common": {
+        "omnipay/common": {
             "type": "vcs",
             "url": "https://github.com/Nozibulla/omnipay-common"
         }
